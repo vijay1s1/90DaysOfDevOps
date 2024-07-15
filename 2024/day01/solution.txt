@@ -1,0 +1,2 @@
+
+Devops is nothing but continuos integration continuos deplyoment.
